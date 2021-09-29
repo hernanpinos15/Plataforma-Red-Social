@@ -20,6 +20,6 @@ You will also see any lint errors in the console.
 
 # Proceso para poder ejecutar el proyecto
 
-En la terminal ejeuctar py distancia.py
+En la terminal ejecutar py distancia.py
 Ingresar el usario de origen
 Ingresar el usuario de destino
